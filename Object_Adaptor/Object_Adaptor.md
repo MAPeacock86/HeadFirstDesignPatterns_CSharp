@@ -9,5 +9,5 @@ interface the client expects. Adapter lets classes work together that
 couldn't otherwise because of incompatible interfaces. 
 
 ### Class Diagram
-[ClassDiagram.png]
+![ClassDiagram](ClassDiagram.png)
 
