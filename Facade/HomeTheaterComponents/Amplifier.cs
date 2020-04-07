@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Facade.HomeTheaterComponents
 {
-    class Aplifier
+    class Amplifier
     {
         private DvdPlayer _dvdPlayer;
 

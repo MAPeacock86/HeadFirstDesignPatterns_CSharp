@@ -16,5 +16,10 @@ namespace Facade.HomeTheaterComponents
             Console.WriteLine("Popcorn popping");
         }
 
+        internal void Off()
+        {
+            Console.WriteLine("Popcorn Popper Off");
+        }
+
     }
 }
